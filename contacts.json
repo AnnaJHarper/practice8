@@ -1,0 +1,23 @@
+[
+    {
+        "first_name": "Tony",
+        "last_name": "Stark",
+        "email": "tony@stark.com",
+        "birthday": "1970-05-29",
+        "group": "Work",
+        "phones": [
+            {"phone": "999888777", "type": "mobile"},
+            {"phone": "111222333", "type": "work"}
+        ]
+    },
+    {
+        "first_name": "Peter",
+        "last_name": "Parker",
+        "email": "spider@gmail.com",
+        "birthday": "2001-08-10",
+        "group": "Friend",
+        "phones": [
+            {"phone": "555444333", "type": "mobile"}
+        ]
+    }
+]
